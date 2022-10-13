@@ -1,4 +1,7 @@
 # nginx-http-errors
+
+This is a work in progress...
+
 Custom HTTP Error responses in a single file include
 
 Include files in your nginx server conf file.
